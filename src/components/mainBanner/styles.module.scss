@@ -1,0 +1,21 @@
+/** @format */
+@import '../../assets//scss/variables';
+
+.container {
+  border-radius: 1.5rem;
+  background: url('https://picsum.photos/id/1081/1000/800');
+  background-position: left center;
+  background-repeat: no-repeat;
+  height: 15rem;
+  background-size: cover;
+
+  .title {
+    color: $secondary-purple;
+    display: flex;
+    padding: 5rem;
+    font-size: 1.5rem;
+    h4 {
+      margin-left: 0.4rem;
+    }
+  }
+}

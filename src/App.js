@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+/** @format */
 
-function App() {
+import React from 'react'
+import './App.scss'
+import LastWeather from './components/lastsWeather/LastWeather'
+import MainBanner from './components/mainBanner/MainBanner'
+import Reviews from './components/reviews/Reviews'
+import VisitCard from './components/visitCard/VisitCard'
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='mainContainer'>
+      <div className='content'>
+        <MainBanner />
+        <div className='gridContainer'>
+          <LastWeather />
+          <VisitCard />
+        </div>
+      </div>
     </div>
-  );
+  )
 }
-
-export default App;
