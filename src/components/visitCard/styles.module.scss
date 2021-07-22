@@ -111,6 +111,19 @@
       margin-bottom: 2rem;
       background: url('https://picsum.photos/id/1069/1000/800');
       height: 8rem;
+      position: relative;
+      .moreButton {
+        background: $secondary-purple;
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 100%;
+        width: 4rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 2rem;
+      }
     }
   }
 }
