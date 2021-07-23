@@ -28,6 +28,9 @@
         align-items: center;
         justify-content: center;
         background: $light-blue;
+        img {
+          width: 4rem;
+        }
       }
 
       .temperture {

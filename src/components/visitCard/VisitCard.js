@@ -61,7 +61,7 @@ export default function VisitCard() {
             <h4>Singapore</h4>
           </div>
           <div className={styles.moreButton}>
-            <FontAwesomeIcon icon={faMapMarkerAlt} />
+            <span>+</span>
           </div>
         </div>
       </div>
