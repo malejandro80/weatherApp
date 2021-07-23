@@ -10,7 +10,7 @@ export default function MainBanner() {
     <div className={styles.container}>
       <div className={styles.title}>
         <FontAwesomeIcon icon={faMapMarkerAlt} />
-        <h4>Bogota</h4>
+        <h4>Bogotá</h4>
       </div>
     </div>
   )

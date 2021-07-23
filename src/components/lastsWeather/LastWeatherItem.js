@@ -15,10 +15,12 @@ export default function LastWeatherItem() {
         <h4>Friday</h4>
         <span>nose</span>
       </div>
-      <div className={styles.temperture}>
-        <h4>
-          32 <span>F</span> / 23 <span>o</span>
-        </h4>
+      <div className={styles.tempertureContent}>
+        <div className={styles.temperture}>
+          <h4>
+            32 <span>F</span> / 23 <span>o</span>
+          </h4>
+        </div>
       </div>
     </div>
   )
