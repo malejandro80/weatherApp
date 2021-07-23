@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+<!-- @format -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Esta es una pequena prueba para como desarrollador Frontend usado REACT
 
-## Available Scripts
+## indicaciones de instalacion
 
-In the project directory, you can run:
+1. clonar el repositorio
+2. instalar dependencia (npm install)
+3. correr el programa el local (npm run start)
 
-### `yarn start`
+## puede ver esta pagina desplegada en la siguiente [direccion](https://malejandro80.github.io/weatherApp/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## MOKUP
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![Prueba](/src/assets/img/prueba.jpeg 'MOKUP')
 
-### `yarn test`
+## requisitos de la prueba
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Los datos de la aplicación debes consumirlos a través de la siguiente API https://openweathermap.org/current
+2. En el banner superior debes mostrar el clima del día actual de Bogotá
+3. En la parte inferior en la sección 3 days forecast, debes mostrar el clima de los próximos tres días.
+4. Una de las fichas de la parte derecha, debe mostrar el clima actual de
+   París - Francia
+5. Los iconos del clima se deben mostrar dependiendo la respuesta de la propiedad main en el objecto weather
 
-### `yarn build`
+- Ex: Si recibimos "clear" -> Mostramos un sol.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+6. Para las peticiones de la aplicación, no puedes usar el API fetch ni axios.
+7. Para el renderizado puedes usar vanilla JS o el framework que mas te convenga para la ocasión.
+8. Puedes desarrollar los estilos como lo prefieras pero si usas SASS, LESS o Stylus tendrás puntos adicionales
+9. ¿Crees que podamos abrir el sitio en dispositivos móviles? no nos vendría mal un responsive desing
+10. Se debe cumplir 100% con el diseño propuesto.
+11. Debes cargar tu solución en un repositorio en gitlab o github, con
+    el respectivo readme.
+    11.Debes compartir el repositorio del proyecto y desplegarlo en un servicio gratuito como heroku.
