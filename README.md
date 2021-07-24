@@ -30,6 +30,5 @@
 8. Puedes desarrollar los estilos como lo prefieras pero si usas SASS, LESS o Stylus tendrás puntos adicionales
 9. ¿Crees que podamos abrir el sitio en dispositivos móviles? no nos vendría mal un responsive desing
 10. Se debe cumplir 100% con el diseño propuesto.
-11. Debes cargar tu solución en un repositorio en gitlab o github, con
-    el respectivo readme.
-    11.Debes compartir el repositorio del proyecto y desplegarlo en un servicio gratuito como heroku.
+11. Debes cargar tu solución en un repositorio en gitlab o github, con el respectivo readme.
+12. Debes compartir el repositorio del proyecto y desplegarlo en un servicio gratuito como heroku.
