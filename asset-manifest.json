@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/weatherApp/static/css/main.1510f790.chunk.css",
-    "main.js": "/weatherApp/static/js/main.338fe35f.chunk.js",
-    "main.js.map": "/weatherApp/static/js/main.338fe35f.chunk.js.map",
-    "runtime-main.js": "/weatherApp/static/js/runtime-main.0c79662c.js",
-    "runtime-main.js.map": "/weatherApp/static/js/runtime-main.0c79662c.js.map",
-    "static/js/2.fb15fbd2.chunk.js": "/weatherApp/static/js/2.fb15fbd2.chunk.js",
-    "static/js/2.fb15fbd2.chunk.js.map": "/weatherApp/static/js/2.fb15fbd2.chunk.js.map",
-    "static/js/3.0e3e36d1.chunk.js": "/weatherApp/static/js/3.0e3e36d1.chunk.js",
-    "static/js/3.0e3e36d1.chunk.js.map": "/weatherApp/static/js/3.0e3e36d1.chunk.js.map",
+    "main.css": "/weatherApp/static/css/main.ccd2eb90.chunk.css",
+    "main.js": "/weatherApp/static/js/main.340c980a.chunk.js",
+    "main.js.map": "/weatherApp/static/js/main.340c980a.chunk.js.map",
+    "runtime-main.js": "/weatherApp/static/js/runtime-main.0d1482de.js",
+    "runtime-main.js.map": "/weatherApp/static/js/runtime-main.0d1482de.js.map",
+    "static/js/2.29498974.chunk.js": "/weatherApp/static/js/2.29498974.chunk.js",
+    "static/js/2.29498974.chunk.js.map": "/weatherApp/static/js/2.29498974.chunk.js.map",
+    "static/js/3.1567b839.chunk.js": "/weatherApp/static/js/3.1567b839.chunk.js",
+    "static/js/3.1567b839.chunk.js.map": "/weatherApp/static/js/3.1567b839.chunk.js.map",
     "index.html": "/weatherApp/index.html",
-    "static/css/main.1510f790.chunk.css.map": "/weatherApp/static/css/main.1510f790.chunk.css.map",
-    "static/js/2.fb15fbd2.chunk.js.LICENSE.txt": "/weatherApp/static/js/2.fb15fbd2.chunk.js.LICENSE.txt",
+    "static/css/main.ccd2eb90.chunk.css.map": "/weatherApp/static/css/main.ccd2eb90.chunk.css.map",
+    "static/js/2.29498974.chunk.js.LICENSE.txt": "/weatherApp/static/js/2.29498974.chunk.js.LICENSE.txt",
+    "static/media/styles.module.scss": "/weatherApp/static/media/forma2.02134f48.svg",
+    "static/media/ilustration.5d24b8f3.svg": "/weatherApp/static/media/ilustration.5d24b8f3.svg",
     "static/media/profile1.94c27a99.png": "/weatherApp/static/media/profile1.94c27a99.png",
     "static/media/profile2.8437610a.png": "/weatherApp/static/media/profile2.8437610a.png",
     "static/media/profile3.d3459a79.png": "/weatherApp/static/media/profile3.d3459a79.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c79662c.js",
-    "static/js/2.fb15fbd2.chunk.js",
-    "static/css/main.1510f790.chunk.css",
-    "static/js/main.338fe35f.chunk.js"
+    "static/js/runtime-main.0d1482de.js",
+    "static/js/2.29498974.chunk.js",
+    "static/css/main.ccd2eb90.chunk.css",
+    "static/js/main.340c980a.chunk.js"
   ]
 }
