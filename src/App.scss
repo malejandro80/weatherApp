@@ -31,8 +31,8 @@
   gap: 3rem;
 
   @media (max-width: 992px) {
-    grid-template-columns: 1fr;
-    gap: 0;
+    grid-template-columns: 100%;
+    // gap: 0;
 
     > * {
       padding: 2rem 0;
